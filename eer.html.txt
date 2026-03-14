@@ -1,1 +1,14 @@
-rfv
+Day-7 Tomorrow Plan
+AI Bot Voice Reply (Main Task)
+
+Day-8 Plan — AI Discussion Mode (Bots Talk Automatically)
+
+Goal:
+Bots should discuss the topic with each other, like a design review meeting.
+
+Day-9 Plan — Meeting Replay & Timeline start,end
+
+Goal:
+Users can replay the whole meeting conversation step-by-step.
+
+
